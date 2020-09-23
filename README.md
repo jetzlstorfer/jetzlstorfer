@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Jürgen and I'm the community lead of [Keptn](https://keptn.sh). 
+
+👯 We are always happy to receive new contributions, checkout our [source code](https://github.com/keptn/keptn) and our [tutorials](https://tutorials.keptn.sh) to get started!
+
+📫  How to reach me: 
+- Twitter [@jetzlstorfer](https://twitter.com/jetzlstorfer)
+- LinkedIn [juergenetzlstorfer](https://www.linkedin.com/in/juergenetzlstorfer/)
