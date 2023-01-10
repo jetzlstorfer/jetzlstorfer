@@ -1,5 +1,7 @@
 ## 👋 Hi there 
 
+
+
 ![GitHub followers](https://img.shields.io/github/followers/jetzlstorfer?label=GitHub%20followers)
 ![Twitter Follow](https://img.shields.io/twitter/follow/jetzlstorfer)
 
@@ -16,11 +18,11 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 
 #### 📖 My latest blog posts
+- [Your always up-to-date GitHub profile](https://jetzlstorfer.medium.com/your-always-up-to-date-github-profile-398b3c9d8de5?source=rss-14f716fb26f2------2) (today)
 - [Automating &amp; evaluating load testing with Locust and Keptn](https://medium.com/keptn/automating-evaluating-load-testing-with-locust-and-keptn-6cf5c8f76bed?source=rss-14f716fb26f2------2) (1 year ago)
 - [Running k3d and Istio locally](https://jetzlstorfer.medium.com/running-k3d-and-istio-locally-32adc5c41a63?source=rss-14f716fb26f2------2) (2 years ago)
 - [Part-2: Evaluating Application Resiliency with Keptn and LitmusChaos (use-case and demo)](https://medium.com/keptn/part-2-evaluating-application-resiliency-with-keptn-and-litmuschaos-use-case-and-demo-f43b264a2294?source=rss-14f716fb26f2------2) (2 years ago)
 - [Keptn — simplifying cloud-native app delivery &amp; operations — a review on our journey so far](https://medium.com/keptn/keptn-simplifying-cloud-native-app-delivery-operations-a-review-on-our-journey-so-far-5d0f56619662?source=rss-14f716fb26f2------2) (2 years ago)
-- [How I mastered the Certified Kubernetes Application Developer (CKAD) exam](https://jetzlstorfer.medium.com/how-i-mastered-the-certified-kubernetes-application-developer-ckad-exam-89ffcc511ad1?source=rss-14f716fb26f2------2) (2 years ago)
 
 #### 👷 I'm currently working on (aka my most recent contributions)
 
@@ -40,7 +42,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 - [gerwaldo/GAA2022](https://github.com/gerwaldo/GAA2022) -  - 3 stars
 - [crwlrsoft/crawler](https://github.com/crwlrsoft/crawler) - Library for Rapid (Web) Crawler and Scraper Development - 60 stars
 - [ashleymcnamara/Developer-Advocate-Bit](https://github.com/ashleymcnamara/Developer-Advocate-Bit) - Bit the Developer Advocate Mascot  - 199 stars
-- [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide - 4374 stars
+- [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide - 4375 stars
 
 #### 👥 My latest followers
 
