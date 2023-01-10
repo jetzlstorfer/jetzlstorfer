@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/jetzlstorfer?label=GitHub%20followers)
 ![Twitter Follow](https://img.shields.io/twitter/follow/jetzlstorfer)
 
-My name is Jürgen and I'm a Application Innovation Specialist at Microsoft Austria working with customers on topics related to innovation, migration, containers, serverless, DevOps, and more. I'm also a maintainer of [Keptn](https://keptn.sh) and I've been a [mentor for cloud-native projects](https://medium.com/keptn/keptn-simplifying-cloud-native-app-delivery-operations-a-review-on-our-journey-so-far-5d0f56619662) in the [LFX initiative](https://lfx.linuxfoundation.org/tools/mentorship/) (read what mentees are saying [1](https://www.ankitjain28.me/communitybridge-mentee-with-keptn/) [2](https://www.cncf.io/blog/2021/07/13/spring-term-lfx-program-largest-graduating-class-with-28-successful-cncf-interns/) [3](https://rajdas98.medium.com/my-experience-with-linux-foundation-mentorship-program-80b3614c55f5?source=post_internal_links---------3----------------------------)) and [everyonecodes.io](https://everyonecodes.io/).
+My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Austria working with customers on topics related to innovation, migration, containers, serverless, DevOps, and more. I'm also a maintainer of [Keptn](https://keptn.sh) and I've been a [mentor for cloud-native projects](https://medium.com/keptn/keptn-simplifying-cloud-native-app-delivery-operations-a-review-on-our-journey-so-far-5d0f56619662) in the [LFX initiative](https://lfx.linuxfoundation.org/tools/mentorship/) (read what mentees are saying [1](https://www.ankitjain28.me/communitybridge-mentee-with-keptn/) [2](https://www.cncf.io/blog/2021/07/13/spring-term-lfx-program-largest-graduating-class-with-28-successful-cncf-interns/) [3](https://rajdas98.medium.com/my-experience-with-linux-foundation-mentorship-program-80b3614c55f5?source=post_internal_links---------3----------------------------)) and [everyonecodes.io](https://everyonecodes.io/).
 
 👯 With Keptn, we are always happy to receive new contributions, checkout our [source code](https://github.com/keptn/keptn) and our [tutorials](https://tutorials.keptn.sh) to get started!
 
@@ -24,7 +24,41 @@ My name is Jürgen and I'm a Application Innovation Specialist at Microsoft Aust
 - [Keptn — simplifying cloud-native app delivery &amp; operations — a review on our journey so far](https://medium.com/keptn/keptn-simplifying-cloud-native-app-delivery-operations-a-review-on-our-journey-so-far-5d0f56619662?source=rss-14f716fb26f2------2) (2 years ago)
 - [How I mastered the Certified Kubernetes Application Developer (CKAD) exam](https://jetzlstorfer.medium.com/how-i-mastered-the-certified-kubernetes-application-developer-ckad-exam-89ffcc511ad1?source=rss-14f716fb26f2------2) (2 years ago)
 
+#### 👷 I'm currently working on (aka my most recent contributions)
 
+- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) -  (today)
+- [jetzlstorfer/jetzlstorfer.github.io](https://github.com/jetzlstorfer/jetzlstorfer.github.io) - public landing page (today)
+- [jetzlstorfer/hello-github-actions](https://github.com/jetzlstorfer/hello-github-actions) -  (6 days ago)
+- [jetzlstorfer/github-continuous-delivery-azure](https://github.com/jetzlstorfer/github-continuous-delivery-azure) -  (6 days ago)
+- [jetzlstorfer/github-exercise-publish-package](https://github.com/jetzlstorfer/github-exercise-publish-package) -  (6 days ago)
+
+#### 🚀 Latest releases I contributed to
+
+- [keptn/keptn](https://github.com/keptn/keptn) ([1.0.0](https://github.com/keptn/keptn/releases/tag/1.0.0), 4 weeks ago) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations &amp; remediation of your applications.
+
+#### ⭐ Latest repositories I starred
+
+- [pemtajo/badge-readme](https://github.com/pemtajo/badge-readme) - Add badges in your Readme - 31 stars
+- [gerwaldo/GAA2022](https://github.com/gerwaldo/GAA2022) -  - 3 stars
+- [crwlrsoft/crawler](https://github.com/crwlrsoft/crawler) - Library for Rapid (Web) Crawler and Scraper Development - 60 stars
+- [ashleymcnamara/Developer-Advocate-Bit](https://github.com/ashleymcnamara/Developer-Advocate-Bit) - Bit the Developer Advocate Mascot  - 199 stars
+- [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide - 4374 stars
+
+#### 👥 My latest followers
+
+- [AHB102](https://github.com/AHB102) - Archit H Barve 
+- [abdo643-HULK](https://github.com/abdo643-HULK) - Abdelrahaman Shehata
+- [checkfelix123](https://github.com/checkfelix123) - 
+- [Kampotboy](https://github.com/Kampotboy) - Sothach Ly
+- [julianocosta89](https://github.com/julianocosta89) - Juliano Costa
+
+#### 👨‍💻 Repositories I created recently
+
+- [jetzlstorfer/github-exercise-use-secrets](https://github.com/jetzlstorfer/github-exercise-use-secrets)
+- [jetzlstorfer/github-exercise-publish-package](https://github.com/jetzlstorfer/github-exercise-publish-package)
+- [jetzlstorfer/github-continuous-delivery-azure](https://github.com/jetzlstorfer/github-continuous-delivery-azure)
+- [jetzlstorfer/github-continuous-integration](https://github.com/jetzlstorfer/github-continuous-integration)
+- [jetzlstorfer/hello-github-actions](https://github.com/jetzlstorfer/hello-github-actions)
 
 
 ## 📊 Statistics
