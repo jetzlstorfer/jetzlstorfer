@@ -1,4 +1,4 @@
-### Hi there 👋
+## 👋 Hi there 
 
 <!--
 **jetzlstorfer/jetzlstorfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,5 +26,11 @@ My name is Jürgen and I'm a Application Innovation Specialist at Microsoft Aust
 - LinkedIn [juergenetzlstorfer](https://www.linkedin.com/in/juergenetzlstorfer/)
 
 
+## 📊 Statistics
+
 [![Jürgen's github stats](https://github-readme-stats.vercel.app/api?username=jetzlstorfer&show_icons=true&count_private=true)](https://github.com/jetzlstorfer)
 
+## 🎓 Certificates & Trainings
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
