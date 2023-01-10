@@ -1,7 +1,5 @@
 ## 👋 Hi there 
 
-
-
 ![GitHub followers](https://img.shields.io/github/followers/jetzlstorfer?label=GitHub%20followers)
 ![Twitter Follow](https://img.shields.io/twitter/follow/jetzlstorfer)
 
