@@ -1,6 +1,7 @@
 name: Update badges
 
 on:
+  workflow_dispatch: 
   schedule:
     # Runs at 0am UTC every day
     - cron: "0 0 * * *"
