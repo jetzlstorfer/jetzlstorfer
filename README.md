@@ -42,3 +42,5 @@ My name is Jürgen and I'm a Application Innovation Specialist at Microsoft Aust
 [![Program Committee Member: KubeCon + CloudNativeCon North America 2021](https://images.credly.com/size/110x110/images/db1a0fb5-712a-419e-b80e-52c97bb6c462/KubeCon_NA_2021_speaker-badges_program-committee-member-2.png)](http://www.credly.com/badges/c2a2e21a-dc13-450b-9e02-246dbce96133 "Program Committee Member: KubeCon + CloudNativeCon North America 2021")
 [![Track Chair: KubeCon + CloudNativeCon Europe 2021](https://images.credly.com/size/110x110/images/bada9959-a6c6-4a63-bdf8-fed2bc980423/Track_Chair_3-17.png)](http://www.credly.com/badges/f79ae7b6-aba6-4a94-ab2e-d95d9e901896 "Track Chair: KubeCon + CloudNativeCon Europe 2021")
 <!--END_SECTION:badges-->
+
+Find all [my badges on Credly.com](https://www.credly.com/users/jetzlstorfer/badges).
