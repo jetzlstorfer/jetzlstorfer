@@ -46,7 +46,7 @@ My name is Jürgen and I'm a Application Innovation Specialist at Microsoft Aust
 {{- end}}
 
 #### ⭐ Latest repositories I starred
-{{range recentStars 10}}
+{{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{.Repo.Stargazers}} stars
 {{- end}}
 
