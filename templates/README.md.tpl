@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![GitHub last commit](https://img.shields.io/github/last-commit/jetzlstorfer/jetzlstorfer?label=updated)
 ![GitHub followers](https://img.shields.io/github/followers/jetzlstorfer?label=GitHub%20followers)
 ![Twitter Follow](https://img.shields.io/twitter/follow/jetzlstorfer)
 
@@ -24,13 +25,13 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 💬 Ask me about Azure, how to be get started and get productive in the cloud.
 
-📫  How to reach me: 
+#### 📫 How to reach me: 
 - Twitter [@jetzlstorfer](https://twitter.com/jetzlstorfer)
 - LinkedIn [juergenetzlstorfer](https://www.linkedin.com/in/juergenetzlstorfer/)
 
 
 
-#### 📖 My latest blog posts
+#### 📖 My latest blog posts (from my [jetzlstorfer.medium.com blog](https://jetzlstorfer.medium.com))
 {{- range rss "https://jetzlstorfer.medium.com/feed" 5 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
