@@ -2,6 +2,7 @@
 
 
 
+![GitHub last commit](https://img.shields.io/github/last-commit/jetzlstorfer/jetzlstorfer?label=updated)
 ![GitHub followers](https://img.shields.io/github/followers/jetzlstorfer?label=GitHub%20followers)
 ![Twitter Follow](https://img.shields.io/twitter/follow/jetzlstorfer)
 
@@ -11,13 +12,13 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 💬 Ask me about Azure, how to be get started and get productive in the cloud.
 
-📫  How to reach me: 
+#### 📫 How to reach me: 
 - Twitter [@jetzlstorfer](https://twitter.com/jetzlstorfer)
 - LinkedIn [juergenetzlstorfer](https://www.linkedin.com/in/juergenetzlstorfer/)
 
 
 
-#### 📖 My latest blog posts
+#### 📖 My latest blog posts (from my [jetzlstorfer.medium.com blog](https://jetzlstorfer.medium.com))
 - [Your always up-to-date GitHub profile](https://jetzlstorfer.medium.com/your-always-up-to-date-github-profile-398b3c9d8de5?source=rss-14f716fb26f2------2) (1 day ago)
 - [Automating &amp; evaluating load testing with Locust and Keptn](https://medium.com/keptn/automating-evaluating-load-testing-with-locust-and-keptn-6cf5c8f76bed?source=rss-14f716fb26f2------2) (1 year ago)
 - [Running k3d and Istio locally](https://jetzlstorfer.medium.com/running-k3d-and-istio-locally-32adc5c41a63?source=rss-14f716fb26f2------2) (2 years ago)
@@ -42,7 +43,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 - [gerwaldo/GAA2022](https://github.com/gerwaldo/GAA2022) -  - 3 stars
 - [crwlrsoft/crawler](https://github.com/crwlrsoft/crawler) - Library for Rapid (Web) Crawler and Scraper Development - 60 stars
 - [ashleymcnamara/Developer-Advocate-Bit](https://github.com/ashleymcnamara/Developer-Advocate-Bit) - Bit the Developer Advocate Mascot  - 199 stars
-- [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide - 4375 stars
+- [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide - 4376 stars
 
 #### 👥 My latest followers
 
