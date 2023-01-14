@@ -19,7 +19,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 
 #### 📖 My latest blog posts (from my [jetzlstorfer.medium.com blog](https://jetzlstorfer.medium.com))
-- [Your always up-to-date GitHub profile](https://jetzlstorfer.medium.com/your-always-up-to-date-github-profile-398b3c9d8de5?source=rss-14f716fb26f2------2) (3 days ago)
+- [Your always up-to-date GitHub profile](https://jetzlstorfer.medium.com/your-always-up-to-date-github-profile-398b3c9d8de5?source=rss-14f716fb26f2------2) (4 days ago)
 - [Automating &amp; evaluating load testing with Locust and Keptn](https://medium.com/keptn/automating-evaluating-load-testing-with-locust-and-keptn-6cf5c8f76bed?source=rss-14f716fb26f2------2) (1 year ago)
 - [Running k3d and Istio locally](https://jetzlstorfer.medium.com/running-k3d-and-istio-locally-32adc5c41a63?source=rss-14f716fb26f2------2) (2 years ago)
 - [Part-2: Evaluating Application Resiliency with Keptn and LitmusChaos (use-case and demo)](https://medium.com/keptn/part-2-evaluating-application-resiliency-with-keptn-and-litmuschaos-use-case-and-demo-f43b264a2294?source=rss-14f716fb26f2------2) (2 years ago)
@@ -27,9 +27,9 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 #### 👷 I'm currently working on (aka my most recent contributions)
 
-- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) -  (3 days ago)
-- [jetzlstorfer/jetzlstorfer.github.io](https://github.com/jetzlstorfer/jetzlstorfer.github.io) - public landing page (3 days ago)
-- [jetzlstorfer/hello-github-actions](https://github.com/jetzlstorfer/hello-github-actions) -  (1 week ago)
+- [jetzlstorfer/whatsapp-test](https://github.com/jetzlstorfer/whatsapp-test) -  (1 day ago)
+- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) -  (4 days ago)
+- [jetzlstorfer/jetzlstorfer.github.io](https://github.com/jetzlstorfer/jetzlstorfer.github.io) - public landing page (4 days ago)
 - [jetzlstorfer/github-continuous-delivery-azure](https://github.com/jetzlstorfer/github-continuous-delivery-azure) -  (1 week ago)
 - [jetzlstorfer/github-exercise-publish-package](https://github.com/jetzlstorfer/github-exercise-publish-package) -  (1 week ago)
 
@@ -39,11 +39,11 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 #### ⭐ Latest repositories I starred
 
+- [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API - 793 stars
 - [pemtajo/badge-readme](https://github.com/pemtajo/badge-readme) - Add badges in your Readme - 32 stars
 - [gerwaldo/GAA2022](https://github.com/gerwaldo/GAA2022) -  - 3 stars
-- [crwlrsoft/crawler](https://github.com/crwlrsoft/crawler) - Library for Rapid (Web) Crawler and Scraper Development - 61 stars
+- [crwlrsoft/crawler](https://github.com/crwlrsoft/crawler) - Library for Rapid (Web) Crawler and Scraper Development - 62 stars
 - [ashleymcnamara/Developer-Advocate-Bit](https://github.com/ashleymcnamara/Developer-Advocate-Bit) - Bit the Developer Advocate Mascot  - 199 stars
-- [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide - 4381 stars
 
 #### 👥 My latest followers
 
@@ -55,11 +55,11 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 #### 👨‍💻 Repositories I created recently
 
+- [jetzlstorfer/whatsapp-test](https://github.com/jetzlstorfer/whatsapp-test)
 - [jetzlstorfer/github-exercise-use-secrets](https://github.com/jetzlstorfer/github-exercise-use-secrets)
 - [jetzlstorfer/github-exercise-publish-package](https://github.com/jetzlstorfer/github-exercise-publish-package)
 - [jetzlstorfer/github-continuous-delivery-azure](https://github.com/jetzlstorfer/github-continuous-delivery-azure)
 - [jetzlstorfer/github-continuous-integration](https://github.com/jetzlstorfer/github-continuous-integration)
-- [jetzlstorfer/hello-github-actions](https://github.com/jetzlstorfer/hello-github-actions)
 
 
 ## 📊 Statistics
