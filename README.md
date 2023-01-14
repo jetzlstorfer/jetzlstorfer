@@ -12,7 +12,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 💬 Ask me about Azure, how to be get started and get productive in the cloud.
 
-#### 📫 How to reach me: 
+#### 📫 How to best reach out: 
 - Twitter [@jetzlstorfer](https://twitter.com/jetzlstorfer)
 - LinkedIn [juergenetzlstorfer](https://www.linkedin.com/in/juergenetzlstorfer/)
 
@@ -27,11 +27,11 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 #### 👷 I'm currently working on (aka my most recent contributions)
 
-- [jetzlstorfer/whatsapp-test](https://github.com/jetzlstorfer/whatsapp-test) -  (1 day ago)
+- [jetzlstorfer/whatsapp-test](https://github.com/jetzlstorfer/whatsapp-test) -  (today)
 - [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) -  (4 days ago)
 - [jetzlstorfer/jetzlstorfer.github.io](https://github.com/jetzlstorfer/jetzlstorfer.github.io) - public landing page (4 days ago)
+- [jetzlstorfer/hello-github-actions](https://github.com/jetzlstorfer/hello-github-actions) -  (1 week ago)
 - [jetzlstorfer/github-continuous-delivery-azure](https://github.com/jetzlstorfer/github-continuous-delivery-azure) -  (1 week ago)
-- [jetzlstorfer/github-exercise-publish-package](https://github.com/jetzlstorfer/github-exercise-publish-package) -  (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -39,7 +39,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 #### ⭐ Latest repositories I starred
 
-- [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API - 793 stars
+- [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API - 794 stars
 - [pemtajo/badge-readme](https://github.com/pemtajo/badge-readme) - Add badges in your Readme - 32 stars
 - [gerwaldo/GAA2022](https://github.com/gerwaldo/GAA2022) -  - 3 stars
 - [crwlrsoft/crawler](https://github.com/crwlrsoft/crawler) - Library for Rapid (Web) Crawler and Scraper Development - 62 stars
