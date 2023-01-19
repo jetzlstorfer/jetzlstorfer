@@ -10,7 +10,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 👯 With Keptn, we are always happy to receive new contributions, checkout our [source code](https://github.com/keptn/keptn) and our [tutorials](https://tutorials.keptn.sh) to get started!
 
-💬 Ask me about Azure, how to be get started and get productive in the cloud.
+💬 Ask me about Azure: how to get started and get productive in the cloud.
 
 #### 📫 How to best reach out: 
 - Twitter [@jetzlstorfer](https://twitter.com/jetzlstorfer)
@@ -27,7 +27,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 #### 👷 I'm currently working on (aka my most recent contributions)
 
-- [CloudNativeLinz/cloudnativelinz.github.io](https://github.com/CloudNativeLinz/cloudnativelinz.github.io) - Website for Cloud Native Linz community (1 day ago)
+- [CloudNativeLinz/cloudnativelinz.github.io](https://github.com/CloudNativeLinz/cloudnativelinz.github.io) - Website for Cloud Native Linz community (today)
 - [jetzlstorfer/actions-workflow-demo2022](https://github.com/jetzlstorfer/actions-workflow-demo2022) - demo repo for some github actions demos (3 days ago)
 - [jetzlstorfer/whatsapp-test](https://github.com/jetzlstorfer/whatsapp-test) -  (5 days ago)
 - [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) -  (1 week ago)
@@ -39,7 +39,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 #### ⭐ Latest repositories I starred
 
-- [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API - 805 stars
+- [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API - 809 stars
 - [pemtajo/badge-readme](https://github.com/pemtajo/badge-readme) - Add badges in your Readme - 32 stars
 - [gerwaldo/GAA2022](https://github.com/gerwaldo/GAA2022) -  - 3 stars
 - [crwlrsoft/crawler](https://github.com/crwlrsoft/crawler) - Library for Rapid (Web) Crawler and Scraper Development - 64 stars
