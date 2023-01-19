@@ -23,7 +23,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 👯 With Keptn, we are always happy to receive new contributions, checkout our [source code](https://github.com/keptn/keptn) and our [tutorials](https://tutorials.keptn.sh) to get started!
 
-💬 Ask me about Azure, how to be get started and get productive in the cloud.
+💬 Ask me about Azure: how to get started and get productive in the cloud.
 
 #### 📫 How to best reach out: 
 - Twitter [@jetzlstorfer](https://twitter.com/jetzlstorfer)
