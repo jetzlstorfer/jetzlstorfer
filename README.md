@@ -30,8 +30,8 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 - [CloudNativeLinz/cloudnativelinz.github.io](https://github.com/CloudNativeLinz/cloudnativelinz.github.io) - Website for Cloud Native Linz community (2 days ago)
 - [jetzlstorfer/actions-workflow-demo2022](https://github.com/jetzlstorfer/actions-workflow-demo2022) - demo repo for some github actions demos (5 days ago)
 - [jetzlstorfer/whatsapp-test](https://github.com/jetzlstorfer/whatsapp-test) -  (1 week ago)
-- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) -  (1 week ago)
 - [jetzlstorfer/jetzlstorfer.github.io](https://github.com/jetzlstorfer/jetzlstorfer.github.io) - public landing page (1 week ago)
+- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) -  (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
