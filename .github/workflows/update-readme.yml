@@ -1,7 +1,8 @@
 name: Update README
 
 on:
-  push:
+  workflow_dispatch:      # option to run manually
+  push:                   # run on each push
   schedule:
     - cron: "0 0 * * */1" # runs at 0:00 UTC each day
 
@@ -28,3 +29,12 @@ jobs:
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
+
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@2.3.0
+        with:
+          CREDLY_SORT: POPULAR
