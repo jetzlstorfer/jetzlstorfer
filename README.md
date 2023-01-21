@@ -27,22 +27,22 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 #### 👷 I'm currently working on (aka my most recent contributions)
 
-- [CloudNativeLinz/cloudnativelinz.github.io](https://github.com/CloudNativeLinz/cloudnativelinz.github.io) - Website for Cloud Native Linz community (1 day ago)
-- [jetzlstorfer/actions-workflow-demo2022](https://github.com/jetzlstorfer/actions-workflow-demo2022) - demo repo for some github actions demos (4 days ago)
-- [jetzlstorfer/whatsapp-test](https://github.com/jetzlstorfer/whatsapp-test) -  (6 days ago)
+- [CloudNativeLinz/cloudnativelinz.github.io](https://github.com/CloudNativeLinz/cloudnativelinz.github.io) - Website for Cloud Native Linz community (2 days ago)
+- [jetzlstorfer/actions-workflow-demo2022](https://github.com/jetzlstorfer/actions-workflow-demo2022) - demo repo for some github actions demos (5 days ago)
+- [jetzlstorfer/whatsapp-test](https://github.com/jetzlstorfer/whatsapp-test) -  (1 week ago)
 - [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) -  (1 week ago)
 - [jetzlstorfer/jetzlstorfer.github.io](https://github.com/jetzlstorfer/jetzlstorfer.github.io) - public landing page (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [keptn/keptn](https://github.com/keptn/keptn) ([1.1.0](https://github.com/keptn/keptn/releases/tag/1.1.0), 2 days ago) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations &amp; remediation of your applications.
+- [keptn/keptn](https://github.com/keptn/keptn) ([1.1.0](https://github.com/keptn/keptn/releases/tag/1.1.0), 3 days ago) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations &amp; remediation of your applications.
 
 #### ⭐ Latest repositories I starred
 
-- [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API - 809 stars
+- [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API - 811 stars
 - [pemtajo/badge-readme](https://github.com/pemtajo/badge-readme) - Add badges in your Readme - 32 stars
 - [gerwaldo/GAA2022](https://github.com/gerwaldo/GAA2022) -  - 3 stars
-- [crwlrsoft/crawler](https://github.com/crwlrsoft/crawler) - Library for Rapid (Web) Crawler and Scraper Development - 64 stars
+- [crwlrsoft/crawler](https://github.com/crwlrsoft/crawler) - Library for Rapid (Web) Crawler and Scraper Development - 65 stars
 - [ashleymcnamara/Developer-Advocate-Bit](https://github.com/ashleymcnamara/Developer-Advocate-Bit) - Bit the Developer Advocate Mascot  - 199 stars
 
 #### 👥 My latest followers
