@@ -10,16 +10,16 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 👯 With Keptn, we are always happy to receive new contributions, checkout our [source code](https://github.com/keptn/keptn) and our [tutorials](https://tutorials.keptn.sh) to get started!
 
-💬 Ask me about Azure, how to be get started and get productive in the cloud.
+💬 Ask me about Azure: how to get started and get productive in the cloud.
 
-#### 📫 How to reach me: 
+#### 📫 How to best reach out: 
 - Twitter [@jetzlstorfer](https://twitter.com/jetzlstorfer)
 - LinkedIn [juergenetzlstorfer](https://www.linkedin.com/in/juergenetzlstorfer/)
 
 
 
 #### 📖 My latest blog posts (from my [jetzlstorfer.medium.com blog](https://jetzlstorfer.medium.com))
-- [Your always up-to-date GitHub profile](https://jetzlstorfer.medium.com/your-always-up-to-date-github-profile-398b3c9d8de5?source=rss-14f716fb26f2------2) (1 day ago)
+- [Your always up-to-date GitHub profile](https://jetzlstorfer.medium.com/your-always-up-to-date-github-profile-398b3c9d8de5?source=rss-14f716fb26f2------2) (1 week ago)
 - [Automating &amp; evaluating load testing with Locust and Keptn](https://medium.com/keptn/automating-evaluating-load-testing-with-locust-and-keptn-6cf5c8f76bed?source=rss-14f716fb26f2------2) (1 year ago)
 - [Running k3d and Istio locally](https://jetzlstorfer.medium.com/running-k3d-and-istio-locally-32adc5c41a63?source=rss-14f716fb26f2------2) (2 years ago)
 - [Part-2: Evaluating Application Resiliency with Keptn and LitmusChaos (use-case and demo)](https://medium.com/keptn/part-2-evaluating-application-resiliency-with-keptn-and-litmuschaos-use-case-and-demo-f43b264a2294?source=rss-14f716fb26f2------2) (2 years ago)
@@ -27,23 +27,23 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 #### 👷 I'm currently working on (aka my most recent contributions)
 
-- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) -  (1 day ago)
-- [jetzlstorfer/jetzlstorfer.github.io](https://github.com/jetzlstorfer/jetzlstorfer.github.io) - public landing page (1 day ago)
-- [jetzlstorfer/hello-github-actions](https://github.com/jetzlstorfer/hello-github-actions) -  (1 week ago)
-- [jetzlstorfer/github-continuous-delivery-azure](https://github.com/jetzlstorfer/github-continuous-delivery-azure) -  (1 week ago)
-- [jetzlstorfer/github-exercise-publish-package](https://github.com/jetzlstorfer/github-exercise-publish-package) -  (1 week ago)
+- [CloudNativeLinz/cloudnativelinz.github.io](https://github.com/CloudNativeLinz/cloudnativelinz.github.io) - Website for Cloud Native Linz community (2 days ago)
+- [jetzlstorfer/actions-workflow-demo2022](https://github.com/jetzlstorfer/actions-workflow-demo2022) - demo repo for some github actions demos (5 days ago)
+- [jetzlstorfer/whatsapp-test](https://github.com/jetzlstorfer/whatsapp-test) -  (1 week ago)
+- [jetzlstorfer/jetzlstorfer.github.io](https://github.com/jetzlstorfer/jetzlstorfer.github.io) - public landing page (1 week ago)
+- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) -  (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [keptn/keptn](https://github.com/keptn/keptn) ([1.0.0](https://github.com/keptn/keptn/releases/tag/1.0.0), 1 month ago) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations &amp; remediation of your applications.
+- [keptn/keptn](https://github.com/keptn/keptn) ([1.1.0](https://github.com/keptn/keptn/releases/tag/1.1.0), 3 days ago) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations &amp; remediation of your applications.
 
 #### ⭐ Latest repositories I starred
 
+- [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API - 811 stars
 - [pemtajo/badge-readme](https://github.com/pemtajo/badge-readme) - Add badges in your Readme - 32 stars
 - [gerwaldo/GAA2022](https://github.com/gerwaldo/GAA2022) -  - 3 stars
-- [crwlrsoft/crawler](https://github.com/crwlrsoft/crawler) - Library for Rapid (Web) Crawler and Scraper Development - 60 stars
+- [crwlrsoft/crawler](https://github.com/crwlrsoft/crawler) - Library for Rapid (Web) Crawler and Scraper Development - 65 stars
 - [ashleymcnamara/Developer-Advocate-Bit](https://github.com/ashleymcnamara/Developer-Advocate-Bit) - Bit the Developer Advocate Mascot  - 199 stars
-- [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide - 4376 stars
 
 #### 👥 My latest followers
 
@@ -55,11 +55,11 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 #### 👨‍💻 Repositories I created recently
 
+- [jetzlstorfer/actions-workflow-demo2022](https://github.com/jetzlstorfer/actions-workflow-demo2022) - demo repo for some github actions demos
+- [jetzlstorfer/whatsapp-test](https://github.com/jetzlstorfer/whatsapp-test)
 - [jetzlstorfer/github-exercise-use-secrets](https://github.com/jetzlstorfer/github-exercise-use-secrets)
 - [jetzlstorfer/github-exercise-publish-package](https://github.com/jetzlstorfer/github-exercise-publish-package)
 - [jetzlstorfer/github-continuous-delivery-azure](https://github.com/jetzlstorfer/github-continuous-delivery-azure)
-- [jetzlstorfer/github-continuous-integration](https://github.com/jetzlstorfer/github-continuous-integration)
-- [jetzlstorfer/hello-github-actions](https://github.com/jetzlstorfer/hello-github-actions)
 
 
 ## 📊 Statistics
@@ -68,16 +68,18 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 ## 🎓 Certificates & Trainings
 
-
+<!--START_SECTION:badges-->
 
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/212394bc-88cf-486b-8173-5352bdcd2279 "Microsoft Certified: Azure Fundamentals")
+[![Microsoft Certified: Power Platform Fundamentals](https://images.credly.com/size/110x110/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png)](http://www.credly.com/badges/241f540d-c955-42fa-9d89-a5b9f9739fa8 "Microsoft Certified: Power Platform Fundamentals")
+[![Accessibility in Action](https://images.credly.com/size/110x110/images/d807abc0-9201-41a8-ad25-90ed4a69ee51/Acc_Badge_v4.png)](http://www.credly.com/badges/df2ce689-77e0-450e-969c-f1ebade82421 "Accessibility in Action")
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/1fff09bf-351d-40d0-bacd-ea286279e39e "CKAD: Certified Kubernetes Application Developer")
 [![GitHub Actions](https://images.credly.com/size/110x110/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png)](http://www.credly.com/badges/f29f2130-a325-460d-801a-9751a4713d80 "GitHub Actions")
 [![Speaker: KubeCon + CloudNativeCon Europe 2021](https://images.credly.com/size/110x110/images/e4b49587-41a5-495d-8af8-b708c0936723/Speaker_Badge_3-17.png)](http://www.credly.com/badges/75ebd4ad-071e-4c51-8a4a-28b87e849d78 "Speaker: KubeCon + CloudNativeCon Europe 2021")
 [![cdCon 2021 Speaker](https://images.credly.com/size/110x110/images/b972d3cf-1432-4e12-9228-38a8047eacdb/cdccon-badges-02.png)](http://www.credly.com/badges/174ac14c-83ab-4332-a53d-35f04eb0b24b "cdCon 2021 Speaker")
 [![Program Committee Member: KubeCon + CloudNativeCon North America 2021](https://images.credly.com/size/110x110/images/db1a0fb5-712a-419e-b80e-52c97bb6c462/KubeCon_NA_2021_speaker-badges_program-committee-member-2.png)](http://www.credly.com/badges/c2a2e21a-dc13-450b-9e02-246dbce96133 "Program Committee Member: KubeCon + CloudNativeCon North America 2021")
 [![Track Chair: KubeCon + CloudNativeCon Europe 2021](https://images.credly.com/size/110x110/images/bada9959-a6c6-4a63-bdf8-fed2bc980423/Track_Chair_3-17.png)](http://www.credly.com/badges/f79ae7b6-aba6-4a94-ab2e-d95d9e901896 "Track Chair: KubeCon + CloudNativeCon Europe 2021")
-
+<!--END_SECTION:badges-->
 
 Find all [my badges on Credly.com](https://www.credly.com/users/jetzlstorfer/badges).
 
