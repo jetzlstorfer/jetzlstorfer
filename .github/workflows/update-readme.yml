@@ -30,9 +30,10 @@ jobs:
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
 
-  update-readme:
+  update-badges:
     name: Update Readme with badges
     runs-on: ubuntu-latest
+    needs: markscribe
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@2.3.0
