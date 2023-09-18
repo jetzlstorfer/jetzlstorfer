@@ -36,6 +36,6 @@ jobs:
     needs: markscribe
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@2.3.0
+        uses: pemtajo/badge-readme@2.4.0
         with:
           CREDLY_SORT: POPULAR
