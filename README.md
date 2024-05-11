@@ -25,7 +25,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 #### 👷 I'm currently working on (aka my most recent contributions)
 
-- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) - creates a spotify playlist based on most recent record reviews from my favourite music website plattentests.de 💿 (3 days ago)
+- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) - creates a spotify playlist based on most recent record reviews from my favourite music website plattentests.de 💿 (4 days ago)
 - [CloudNativeLinz/cloudnativelinz.github.io](https://github.com/CloudNativeLinz/cloudnativelinz.github.io) - Website and main repo for Cloud Native Linz community (2 weeks ago)
 - [jetzlstorfer/fhhgb2024](https://github.com/jetzlstorfer/fhhgb2024) -  (4 months ago)
 - [technologieplauscherl/technologieplauscherl.github.io](https://github.com/technologieplauscherl/technologieplauscherl.github.io) - Technologieplauscherl Website (4 months ago)
@@ -66,17 +66,6 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/212394bc-88cf-486b-8173-5352bdcd2279 "Microsoft Certified: Azure Fundamentals")
-[![Enterprise Design Thinking Practitioner](https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png)](http://www.credly.com/badges/a52c48a8-eb65-44a5-8f9b-bebd1b08a166 "Enterprise Design Thinking Practitioner")
-[![Microsoft Certified: Power Platform Fundamentals](https://images.credly.com/size/110x110/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png)](http://www.credly.com/badges/241f540d-c955-42fa-9d89-a5b9f9739fa8 "Microsoft Certified: Power Platform Fundamentals")
-[![Accessibility in Action](https://images.credly.com/size/110x110/images/d807abc0-9201-41a8-ad25-90ed4a69ee51/Acc_Badge_v4.png)](http://www.credly.com/badges/df2ce689-77e0-450e-969c-f1ebade82421 "Accessibility in Action")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/1fff09bf-351d-40d0-bacd-ea286279e39e "CKAD: Certified Kubernetes Application Developer")
-[![Copilot for M365 Achiever Badge - Foundational](https://images.credly.com/size/110x110/images/428e20f1-60eb-4a21-8658-aa92c03ed1c7/image.png)](http://www.credly.com/badges/722f87cc-e28f-4396-9dd7-c8fd890caa4b "Copilot for M365 Achiever Badge - Foundational")
-[![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/856b1589-6195-4600-931e-d29f2370d7ef "GitHub Actions")
-[![Speaker: KubeCon + CloudNativeCon Europe 2021](https://images.credly.com/size/110x110/images/e4b49587-41a5-495d-8af8-b708c0936723/Speaker_Badge_3-17.png)](http://www.credly.com/badges/75ebd4ad-071e-4c51-8a4a-28b87e849d78 "Speaker: KubeCon + CloudNativeCon Europe 2021")
-[![cdCon 2021 Speaker](https://images.credly.com/size/110x110/images/b972d3cf-1432-4e12-9228-38a8047eacdb/cdccon-badges-02.png)](http://www.credly.com/badges/174ac14c-83ab-4332-a53d-35f04eb0b24b "cdCon 2021 Speaker")
-[![Program Committee Member: KubeCon + CloudNativeCon North America 2021](https://images.credly.com/size/110x110/images/db1a0fb5-712a-419e-b80e-52c97bb6c462/KubeCon_NA_2021_speaker-badges_program-committee-member-2.png)](http://www.credly.com/badges/c2a2e21a-dc13-450b-9e02-246dbce96133 "Program Committee Member: KubeCon + CloudNativeCon North America 2021")
-[![Track Chair: KubeCon + CloudNativeCon Europe 2021](https://images.credly.com/size/110x110/images/bada9959-a6c6-4a63-bdf8-fed2bc980423/Track_Chair_3-17.png)](http://www.credly.com/badges/f79ae7b6-aba6-4a94-ab2e-d95d9e901896 "Track Chair: KubeCon + CloudNativeCon Europe 2021")
 <!--END_SECTION:badges-->
 
 Find all [my badges on Credly.com](https://www.credly.com/users/jetzlstorfer/badges).
