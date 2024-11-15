@@ -64,6 +64,10 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 [![Jürgen's github stats](https://github-readme-stats.vercel.app/api?username=jetzlstorfer&show_icons=true&count_private=true)](https://github.com/jetzlstorfer)
 
+## Contribution graph
+<img alt="github-snake" src="https://raw.githubusercontent.com/jetzlstorfer/jetzlstorfer/refs/heads/output/github-contribution-grid-snake.svg" />
+
+
 ## 🎓 Certificates & Trainings
 
 {{comment "<!--START_SECTION:badges-->"}}
