@@ -19,14 +19,14 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 #### 📖 My latest blog posts (from my [jetzlstorfer.medium.com blog](https://jetzlstorfer.medium.com))
 - [Your always up-to-date GitHub profile](https://jetzlstorfer.medium.com/your-always-up-to-date-github-profile-398b3c9d8de5?source=rss-14f716fb26f2------2) (2 years ago)
 - [Automating &amp; evaluating load testing with Locust and Keptn](https://medium.com/keptn/automating-evaluating-load-testing-with-locust-and-keptn-6cf5c8f76bed?source=rss-14f716fb26f2------2) (3 years ago)
-- [Running k3d and Istio locally](https://jetzlstorfer.medium.com/running-k3d-and-istio-locally-32adc5c41a63?source=rss-14f716fb26f2------2) (3 years ago)
+- [Running k3d and Istio locally](https://jetzlstorfer.medium.com/running-k3d-and-istio-locally-32adc5c41a63?source=rss-14f716fb26f2------2) (4 years ago)
 - [Part-2: Evaluating Application Resiliency with Keptn and LitmusChaos (use-case and demo)](https://medium.com/keptn/part-2-evaluating-application-resiliency-with-keptn-and-litmuschaos-use-case-and-demo-f43b264a2294?source=rss-14f716fb26f2------2) (4 years ago)
 - [Keptn — simplifying cloud-native app delivery &amp; operations — a review on our journey so far](https://medium.com/keptn/keptn-simplifying-cloud-native-app-delivery-operations-a-review-on-our-journey-so-far-5d0f56619662?source=rss-14f716fb26f2------2) (4 years ago)
 
 #### 👷 I'm currently working on (aka my most recent contributions)
 
-- [CloudNativeLinz/cloudnativelinz.github.io](https://github.com/CloudNativeLinz/cloudnativelinz.github.io) - Website and main repo for Cloud Native Linz community (4 days ago)
-- [jetzlstorfer/blog.jetzlstorfer.org](https://github.com/jetzlstorfer/blog.jetzlstorfer.org) -  (2 weeks ago)
+- [CloudNativeLinz/cloudnativelinz.github.io](https://github.com/CloudNativeLinz/cloudnativelinz.github.io) - Website and main repo for Cloud Native Linz community (5 days ago)
+- [jetzlstorfer/blog.jetzlstorfer.org](https://github.com/jetzlstorfer/blog.jetzlstorfer.org) -  (3 weeks ago)
 - [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) - creates a spotify playlist based on most recent record reviews from my favourite music website plattentests.de 💿 (3 weeks ago)
 - [jetzlstorfer/jetzlstorfer.github.io](https://github.com/jetzlstorfer/jetzlstorfer.github.io) - public landing page (1 month ago)
 - [jetzlstorfer/AOAI-RAG-demo](https://github.com/jetzlstorfer/AOAI-RAG-demo) -  (6 months ago)
@@ -37,7 +37,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 #### ⭐ Latest repositories I starred
 
 - [mk-maddin/wattpilot-HA](https://github.com/mk-maddin/wattpilot-HA) - This is a custom component to allow control of Fronius Wattpilot wallbox/electro vehicle charging devices in Homeassistant. - 78 stars
-- [thomasddn/ha-volvo-cars](https://github.com/thomasddn/ha-volvo-cars) - Volvo Cars integration for Home Assistant - 114 stars
+- [thomasddn/ha-volvo-cars](https://github.com/thomasddn/ha-volvo-cars) - Volvo Cars integration for Home Assistant - 115 stars
 - [dasMulli/csharp-sk-agent-demos](https://github.com/dasMulli/csharp-sk-agent-demos) - Demo code using Semantic Kernel in C# to use Azure AI Agents - 1 stars
 - [DominikStarke/becker_centralcontrol_has](https://github.com/DominikStarke/becker_centralcontrol_has) - Control your Centronic, CentronicPLUS and B-Tronic devices with Homeassistant. - 8 stars
 - [CloudNativeLinz/cloudnativelinz.github.io](https://github.com/CloudNativeLinz/cloudnativelinz.github.io) - Website and main repo for Cloud Native Linz community - 4 stars
