@@ -36,7 +36,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 #### ⭐ Latest repositories I starred
 
-- [mk-maddin/wattpilot-HA](https://github.com/mk-maddin/wattpilot-HA) - This is a custom component to allow control of Fronius Wattpilot wallbox/electro vehicle charging devices in Homeassistant. - 79 stars
+- [mk-maddin/wattpilot-HA](https://github.com/mk-maddin/wattpilot-HA) - This is a custom component to allow control of Fronius Wattpilot wallbox/electro vehicle charging devices in Homeassistant. - 80 stars
 - [thomasddn/ha-volvo-cars](https://github.com/thomasddn/ha-volvo-cars) - Volvo Cars integration for Home Assistant - 119 stars
 - [dasMulli/csharp-sk-agent-demos](https://github.com/dasMulli/csharp-sk-agent-demos) - Demo code using Semantic Kernel in C# to use Azure AI Agents - 1 stars
 - [DominikStarke/becker_centralcontrol_has](https://github.com/DominikStarke/becker_centralcontrol_has) - Control your Centronic, CentronicPLUS and B-Tronic devices with Homeassistant. - 8 stars
