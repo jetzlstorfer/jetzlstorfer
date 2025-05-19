@@ -29,7 +29,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 - [jetzlstorfer/blog.jetzlstorfer.org](https://github.com/jetzlstorfer/blog.jetzlstorfer.org) -  (1 month ago)
 - [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) - creates a spotify playlist based on most recent record reviews from my favourite music website plattentests.de 💿 (1 month ago)
 - [jetzlstorfer/jetzlstorfer.github.io](https://github.com/jetzlstorfer/jetzlstorfer.github.io) - public landing page (1 month ago)
-- [jetzlstorfer/AOAI-RAG-demo](https://github.com/jetzlstorfer/AOAI-RAG-demo) -  (6 months ago)
+- [jetzlstorfer/AOAI-RAG-demo](https://github.com/jetzlstorfer/AOAI-RAG-demo) -  (7 months ago)
 
 #### 🚀 Latest releases I contributed to
 
