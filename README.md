@@ -25,8 +25,8 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 #### 👷 I'm currently working on (aka my most recent contributions)
 
-- [technologieplauscherl/technologieplauscherl.github.io](https://github.com/technologieplauscherl/technologieplauscherl.github.io) - Technologieplauscherl Website (5 days ago)
-- [CloudNativeLinz/cloudnativelinz.github.io](https://github.com/CloudNativeLinz/cloudnativelinz.github.io) - Website and main repo for Cloud Native Linz community (6 days ago)
+- [technologieplauscherl/technologieplauscherl.github.io](https://github.com/technologieplauscherl/technologieplauscherl.github.io) - Technologieplauscherl Website (6 days ago)
+- [CloudNativeLinz/cloudnativelinz.github.io](https://github.com/CloudNativeLinz/cloudnativelinz.github.io) - Website and main repo for Cloud Native Linz community (1 week ago)
 - [jetzlstorfer/blog.jetzlstorfer.org](https://github.com/jetzlstorfer/blog.jetzlstorfer.org) -  (1 month ago)
 - [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) - creates a spotify playlist based on most recent record reviews from my favourite music website plattentests.de 💿 (1 month ago)
 - [jetzlstorfer/jetzlstorfer.github.io](https://github.com/jetzlstorfer/jetzlstorfer.github.io) - public landing page (2 months ago)
