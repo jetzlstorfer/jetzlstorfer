@@ -25,9 +25,9 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 #### 👷 I'm currently working on (aka my most recent contributions)
 
-- [technologieplauscherl/technologieplauscherl.github.io](https://github.com/technologieplauscherl/technologieplauscherl.github.io) - Technologieplauscherl Website (2 weeks ago)
+- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) - creates a spotify playlist based on most recent record reviews from my favourite music website plattentests.de 💿 (1 day ago)
+- [technologieplauscherl/technologieplauscherl.github.io](https://github.com/technologieplauscherl/technologieplauscherl.github.io) - Technologieplauscherl Website (3 weeks ago)
 - [jetzlstorfer/blog.jetzlstorfer.org](https://github.com/jetzlstorfer/blog.jetzlstorfer.org) -  (2 months ago)
-- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) - creates a spotify playlist based on most recent record reviews from my favourite music website plattentests.de 💿 (2 months ago)
 - [jetzlstorfer/jetzlstorfer.github.io](https://github.com/jetzlstorfer/jetzlstorfer.github.io) - public landing page (2 months ago)
 - [jetzlstorfer/AOAI-RAG-demo](https://github.com/jetzlstorfer/AOAI-RAG-demo) -  (7 months ago)
 
@@ -36,10 +36,10 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 #### ⭐ Latest repositories I starred
 
-- [Azure-Samples/Apim-Samples](https://github.com/Azure-Samples/Apim-Samples) - This repository provides a playground to safely experiment with and learn Azure API Management (APIM) policies in various architectures. - 22 stars
+- [Azure-Samples/Apim-Samples](https://github.com/Azure-Samples/Apim-Samples) - This repository provides a playground to safely experiment with and learn Azure API Management (APIM) policies in various architectures. - 23 stars
 - [simonjj/containerapps-music-recommendations](https://github.com/simonjj/containerapps-music-recommendations) - Build a Music Recommendation Service using Azure Container Apps - 15 stars
 - [mk-maddin/wattpilot-HA](https://github.com/mk-maddin/wattpilot-HA) - This is a custom component to allow control of Fronius Wattpilot wallbox/electro vehicle charging devices in Homeassistant. - 84 stars
-- [thomasddn/ha-volvo-cars](https://github.com/thomasddn/ha-volvo-cars) - Volvo Cars integration for Home Assistant - 132 stars
+- [thomasddn/ha-volvo-cars](https://github.com/thomasddn/ha-volvo-cars) - Volvo Cars integration for Home Assistant - 133 stars
 - [dasMulli/csharp-sk-agent-demos](https://github.com/dasMulli/csharp-sk-agent-demos) - Demo code using Semantic Kernel in C# to use Azure AI Agents - 1 stars
 
 #### 👥 My latest followers
