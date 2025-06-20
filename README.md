@@ -25,7 +25,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 #### 👷 I'm currently working on (aka my most recent contributions)
 
-- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) - creates a spotify playlist based on most recent record reviews from my favourite music website plattentests.de 💿 (3 days ago)
+- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) - creates a spotify playlist based on most recent record reviews from my favourite music website plattentests.de 💿 (4 days ago)
 - [technologieplauscherl/technologieplauscherl.github.io](https://github.com/technologieplauscherl/technologieplauscherl.github.io) - Technologieplauscherl Website (3 weeks ago)
 - [jetzlstorfer/blog.jetzlstorfer.org](https://github.com/jetzlstorfer/blog.jetzlstorfer.org) -  (2 months ago)
 - [jetzlstorfer/jetzlstorfer.github.io](https://github.com/jetzlstorfer/jetzlstorfer.github.io) - public landing page (2 months ago)
@@ -36,7 +36,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 #### ⭐ Latest repositories I starred
 
-- [Azure-Samples/Apim-Samples](https://github.com/Azure-Samples/Apim-Samples) - This repository provides a playground to safely experiment with and learn Azure API Management (APIM) policies in various architectures. - 24 stars
+- [Azure-Samples/Apim-Samples](https://github.com/Azure-Samples/Apim-Samples) - This repository provides a playground to safely experiment with and learn Azure API Management (APIM) policies in various architectures. - 25 stars
 - [simonjj/containerapps-music-recommendations](https://github.com/simonjj/containerapps-music-recommendations) - Build a Music Recommendation Service using Azure Container Apps - 15 stars
 - [mk-maddin/wattpilot-HA](https://github.com/mk-maddin/wattpilot-HA) - This is a custom component to allow control of Fronius Wattpilot wallbox/electro vehicle charging devices in Homeassistant. - 85 stars
 - [thomasddn/ha-volvo-cars](https://github.com/thomasddn/ha-volvo-cars) - Volvo Cars integration for Home Assistant - 133 stars
