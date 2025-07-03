@@ -37,7 +37,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 #### ⭐ Latest repositories I starred
 
 - [sgartner03/openrewrite-in-a-nutshell](https://github.com/sgartner03/openrewrite-in-a-nutshell) -  - 3 stars
-- [Magier/Ran](https://github.com/Magier/Ran) - Ran is an experimental offensive tool for Kubernetes clusters with the goal to enable quick emulation of adversary techniques and a collection for known attack vectors. - 9 stars
+- [Magier/Ran](https://github.com/Magier/Ran) - Ran is an experimental offensive tool for Kubernetes clusters with the goal to enable quick emulation of adversary techniques and a collection for known attack vectors. - 11 stars
 - [bhuebschen/lawn-mower-card](https://github.com/bhuebschen/lawn-mower-card) - Lawn Mower card for Home Assistant Lovelace UI - 9 stars
 - [Azure-Samples/Apim-Samples](https://github.com/Azure-Samples/Apim-Samples) - This repository provides a playground to safely experiment with and learn Azure API Management (APIM) policies in various architectures. - 32 stars
 - [simonjj/containerapps-music-recommendations](https://github.com/simonjj/containerapps-music-recommendations) - Build a Music Recommendation Service using Azure Container Apps - 15 stars
