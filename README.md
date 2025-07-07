@@ -25,7 +25,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 
 #### 👷 I'm currently working on (aka my most recent contributions)
 
-- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) - creates a spotify playlist based on most recent record reviews from my favourite music website plattentests.de 💿 (2 weeks ago)
+- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) - creates a spotify playlist based on most recent record reviews from my favourite music website plattentests.de 💿 (3 weeks ago)
 - [technologieplauscherl/technologieplauscherl.github.io](https://github.com/technologieplauscherl/technologieplauscherl.github.io) - Technologieplauscherl Website (1 month ago)
 - [jetzlstorfer/blog.jetzlstorfer.org](https://github.com/jetzlstorfer/blog.jetzlstorfer.org) -  (2 months ago)
 - [jetzlstorfer/jetzlstorfer.github.io](https://github.com/jetzlstorfer/jetzlstorfer.github.io) - public landing page (3 months ago)
