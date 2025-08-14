@@ -12,7 +12,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 💬 Ask me about Azure: how to get started and get productive in the cloud.
 
 #### 📫 How to best reach out: 
-- LinkedIn [juergenetzlstorfer](https://www.linkedin.com/in/juergenetzlstorfer/
+- LinkedIn [juergenetzlstorfer](https://www.linkedin.com/in/juergenetzlstorfer/)
 
 #### 📖 My latest blog posts (from my [jetzlstorfer.medium.com blog](https://jetzlstorfer.medium.com))
 - [Your always up-to-date GitHub profile](https://jetzlstorfer.medium.com/your-always-up-to-date-github-profile-398b3c9d8de5?source=rss-14f716fb26f2------2) (2 years ago)
