@@ -35,7 +35,7 @@ My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Aus
 #### ⭐ Latest repositories I starred
 
 - [github-copilot-resources/copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer) - Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API  - 513 stars
-- [satomic/copilot-usage-advanced-dashboard](https://github.com/satomic/copilot-usage-advanced-dashboard) -  - 47 stars
+- [satomic/copilot-usage-advanced-dashboard](https://github.com/satomic/copilot-usage-advanced-dashboard) -  - 48 stars
 - [trip5/ESPHome-eInk-Boards](https://github.com/trip5/ESPHome-eInk-Boards) - Weather &amp; Tasks Boards for ESPHome and Home Assistant - 54 stars
 - [mikey0000/Mammotion-HA](https://github.com/mikey0000/Mammotion-HA) - Home Assistant integration for Mammotion lawn mowers - 340 stars
 - [Azure-Samples/snippy](https://github.com/Azure-Samples/snippy) - 🧩 Demo: Build AI-powered MCP Tools for GitHub Copilot using Azure Functions, OpenAI, AI Agents &amp; Cosmos DB. Manages code snippets w/ vector search. - 62 stars
