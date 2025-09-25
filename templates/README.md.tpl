@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ![GitHub last commit](https://img.shields.io/github/last-commit/jetzlstorfer/jetzlstorfer?label=updated)
 ![GitHub followers](https://img.shields.io/github/followers/jetzlstorfer?label=GitHub%20followers)
 
-My name is Jürgen and I'm an Application Innovation Specialist at Microsoft Austria working with customers on topics related to application innovation & migration, containers, serverless, DevOps, and more. I'm also a maintainer of [Keptn](https://keptn.sh) and I've been a [mentor for cloud-native projects](https://medium.com/keptn/keptn-simplifying-cloud-native-app-delivery-operations-a-review-on-our-journey-so-far-5d0f56619662) in the [LFX initiative](https://lfx.linuxfoundation.org/tools/mentorship/) (read what mentees are saying [1](https://www.ankitjain28.me/communitybridge-mentee-with-keptn/) [2](https://www.cncf.io/blog/2021/07/13/spring-term-lfx-program-largest-graduating-class-with-28-successful-cncf-interns/) [3](https://rajdas98.medium.com/my-experience-with-linux-foundation-mentorship-program-80b3614c55f5?source=post_internal_links---------3----------------------------)) and [everyonecodes.io](https://everyonecodes.io/).
+My name is Jürgen and I'm an Solution Engineer at Microsoft Austria working with customers on topics related to cloud & AI applications. I've been a [mentor for cloud-native projects](https://medium.com/keptn/keptn-simplifying-cloud-native-app-delivery-operations-a-review-on-our-journey-so-far-5d0f56619662) in the [LFX initiative](https://lfx.linuxfoundation.org/tools/mentorship/) (read what mentees are saying [1](https://www.ankitjain28.me/communitybridge-mentee-with-keptn/) [2](https://www.cncf.io/blog/2021/07/13/spring-term-lfx-program-largest-graduating-class-with-28-successful-cncf-interns/) [3](https://rajdas98.medium.com/my-experience-with-linux-foundation-mentorship-program-80b3614c55f5?source=post_internal_links---------3----------------------------)) and [everyonecodes.io](https://everyonecodes.io/).
 
-👯 With Keptn, we are always happy to receive new contributions, checkout our [source code](https://github.com/keptn/keptn) and our [tutorials](https://tutorials.keptn.sh) to get started!
-
+<!--
 💬 Ask me about Azure: how to get started and get productive in the cloud.
+-->
 
 #### 📫 How to best reach out: 
 - LinkedIn [juergenetzlstorfer](https://www.linkedin.com/in/juergenetzlstorfer/)
