@@ -65,6 +65,8 @@ My name is Jürgen and I'm a Solution Engineer at Microsoft Austria working with
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/users/jetzlstorfer/badges" title="Microsoft Certified: Azure AI Engineer Associate"><img src="https://images.credly.com/size/80x80/images/d46d1a1f-4059-456f-8d96-bc7486a4c890/converted20260206-31-9lq7if.png" alt="Microsoft Certified: Azure AI Engineer Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/users/jetzlstorfer/badges" title="Introduction to AI for business users"><img src="https://images.credly.com/size/80x80/images/d54ea56a-5986-4dd9-ae36-049aac750314/converted20250723-29-yuloa4.png" alt="Introduction to AI for business users" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 Find all [my badges on Credly.com](https://www.credly.com/users/jetzlstorfer/badges).
