@@ -22,9 +22,9 @@ My name is Jürgen and I'm a Solution Engineer at Microsoft Austria working with
 #### 👷 I'm currently working on (aka my most recent contributions)
 
 - [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) - creates a spotify playlist based on most recent record reviews from my favourite music website plattentests.de 💿 (1 day ago)
-- [jetzlstorfer/wattpilot-exporter](https://github.com/jetzlstorfer/wattpilot-exporter) - ⚡ (1 day ago)
-- [jetzlstorfer/spotify-yearly-discoveries](https://github.com/jetzlstorfer/spotify-yearly-discoveries) - 🎧🔍 (1 day ago)
-- [jetzlstorfer/music-timetraveler](https://github.com/jetzlstorfer/music-timetraveler) - 🧑‍🚀🎶 (4 days ago)
+- [jetzlstorfer/wattpilot-exporter](https://github.com/jetzlstorfer/wattpilot-exporter) - ⚡ (2 days ago)
+- [jetzlstorfer/spotify-yearly-discoveries](https://github.com/jetzlstorfer/spotify-yearly-discoveries) - 🎧🔍 (2 days ago)
+- [jetzlstorfer/music-timetraveler](https://github.com/jetzlstorfer/music-timetraveler) - 🧑‍🚀🎶 (5 days ago)
 - [jetzlstorfer/hybrid-multi-agents](https://github.com/jetzlstorfer/hybrid-multi-agents) -  (1 week ago)
 
 
@@ -32,9 +32,9 @@ My name is Jürgen and I'm a Solution Engineer at Microsoft Austria working with
 #### ⭐ Latest repositories I starred
 
 - [jetzlstorfer/music-timetraveler](https://github.com/jetzlstorfer/music-timetraveler) - 🧑‍🚀🎶 - 1 stars
-- [Azure/git-ape](https://github.com/Azure/git-ape) - platform engineering framework for the agentic age - 234 stars
+- [Azure/git-ape](https://github.com/Azure/git-ape) - platform engineering framework for the agentic age - 239 stars
 - [jetzlstorfer/hybrid-multi-agents](https://github.com/jetzlstorfer/hybrid-multi-agents) -  - 2 stars
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code - 19181 stars
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code - 19190 stars
 - [EmeaAppGbb/spec2cloud](https://github.com/EmeaAppGbb/spec2cloud) -  - 96 stars
 
 #### 👥 My latest followers
@@ -65,8 +65,6 @@ My name is Jürgen and I'm a Solution Engineer at Microsoft Austria working with
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/users/jetzlstorfer/badges" title="Microsoft Certified: Azure AI Engineer Associate"><img src="https://images.credly.com/size/80x80/images/d46d1a1f-4059-456f-8d96-bc7486a4c890/converted20260206-31-9lq7if.png" alt="Microsoft Certified: Azure AI Engineer Associate" width="80" height="80"></a>
-<a href="https://www.credly.com/users/jetzlstorfer/badges" title="Introduction to AI for business users"><img src="https://images.credly.com/size/80x80/images/d54ea56a-5986-4dd9-ae36-049aac750314/converted20250723-29-yuloa4.png" alt="Introduction to AI for business users" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 Find all [my badges on Credly.com](https://www.credly.com/users/jetzlstorfer/badges).
