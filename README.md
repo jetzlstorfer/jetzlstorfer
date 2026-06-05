@@ -21,9 +21,9 @@ My name is Jürgen and I'm a Solution Engineer at Microsoft Austria working with
 
 #### 👷 I'm currently working on (aka my most recent contributions)
 
-- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) - creates a spotify playlist based on most recent record reviews from my favourite music website plattentests.de 💿 (4 days ago)
-- [jetzlstorfer/wattpilot-exporter](https://github.com/jetzlstorfer/wattpilot-exporter) - ⚡ (4 days ago)
-- [jetzlstorfer/music-timetraveler](https://github.com/jetzlstorfer/music-timetraveler) - 🧑‍🚀🎶 (4 days ago)
+- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) - creates a spotify playlist based on most recent record reviews from my favourite music website plattentests.de 💿 (1 day ago)
+- [jetzlstorfer/wattpilot-exporter](https://github.com/jetzlstorfer/wattpilot-exporter) - ⚡ (5 days ago)
+- [jetzlstorfer/music-timetraveler](https://github.com/jetzlstorfer/music-timetraveler) - 🧑‍🚀🎶 (5 days ago)
 - [jetzlstorfer/hybrid-multi-agents](https://github.com/jetzlstorfer/hybrid-multi-agents) -  (1 week ago)
 - [jetzlstorfer/spotify-yearly-discoveries](https://github.com/jetzlstorfer/spotify-yearly-discoveries) - 🎧🔍 (2 weeks ago)
 
@@ -34,7 +34,7 @@ My name is Jürgen and I'm a Solution Engineer at Microsoft Austria working with
 - [jetzlstorfer/hybrid-multi-agents](https://github.com/jetzlstorfer/hybrid-multi-agents) -  - 2 stars
 - [jetzlstorfer/music-timetraveler](https://github.com/jetzlstorfer/music-timetraveler) - 🧑‍🚀🎶 - 1 stars
 - [Azure/git-ape](https://github.com/Azure/git-ape) - platform engineering framework for the agentic age - 245 stars
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code - 19272 stars
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code - 19277 stars
 - [EmeaAppGbb/spec2cloud](https://github.com/EmeaAppGbb/spec2cloud) -  - 96 stars
 
 #### 👥 My latest followers
