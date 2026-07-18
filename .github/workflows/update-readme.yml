@@ -2,7 +2,9 @@ name: Update README
 
 on:
   workflow_dispatch:      # option to run manually
-  push:                   # run on each push
+  push:                   # run on push to main branch
+    branches:
+      - main
   schedule:
     - cron: "0 0 * * */1" # runs at 0:00 UTC each day
 
@@ -11,11 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v6.0.3
+      - uses: actions/checkout@v7.0.0
 
       - uses: jetzlstorfer/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN || github.token }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
