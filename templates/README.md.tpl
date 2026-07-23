@@ -32,10 +32,12 @@ My name is Jürgen and I'm a Solution Engineer at Microsoft Austria working with
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 
+<!--
 #### 👷 I'm currently working on (aka my most recent contributions)
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
+-->
 
 <!--
 #### 🚀 Latest releases I contributed to
