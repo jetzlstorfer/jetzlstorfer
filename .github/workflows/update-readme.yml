@@ -17,7 +17,7 @@ jobs:
 
       - uses: jetzlstorfer/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN || github.token }}
+          GITHUB_TOKEN: ${{ github.token }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
