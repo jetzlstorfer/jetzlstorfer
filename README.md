@@ -21,10 +21,10 @@ My name is Jürgen and I'm a Solution Engineer at Microsoft Austria working with
 
 #### 👷 I'm currently working on (aka my most recent contributions)
 
-- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) - creates a spotify playlist based on most recent record reviews from my favourite music website plattentests.de 💿 (4 days ago)
-- [jetzlstorfer/wattpilot-exporter](https://github.com/jetzlstorfer/wattpilot-exporter) - ⚡ (4 days ago)
-- [jetzlstorfer/music-timetraveler](https://github.com/jetzlstorfer/music-timetraveler) - 🧑‍🚀🎶 (5 days ago)
-- [CloudNativeLinz/cloudnativelinz.github.io](https://github.com/CloudNativeLinz/cloudnativelinz.github.io) - Website and main repo for Cloud Native Linz community (6 days ago)
+- [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) - creates a spotify playlist based on most recent record reviews from my favourite music website plattentests.de 💿 (5 days ago)
+- [jetzlstorfer/wattpilot-exporter](https://github.com/jetzlstorfer/wattpilot-exporter) - ⚡ (5 days ago)
+- [jetzlstorfer/music-timetraveler](https://github.com/jetzlstorfer/music-timetraveler) - 🧑‍🚀🎶 (6 days ago)
+- [CloudNativeLinz/cloudnativelinz.github.io](https://github.com/CloudNativeLinz/cloudnativelinz.github.io) - Website and main repo for Cloud Native Linz community (1 week ago)
 - [technologieplauscherl/technologieplauscherl.github.io](https://github.com/technologieplauscherl/technologieplauscherl.github.io) - Technologieplauscherl Website (1 week ago)
 
 
@@ -65,8 +65,6 @@ My name is Jürgen and I'm a Solution Engineer at Microsoft Austria working with
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/users/jetzlstorfer/badges" title="Microsoft Certified: Azure AI Engineer Associate"><img src="https://images.credly.com/size/80x80/images/d46d1a1f-4059-456f-8d96-bc7486a4c890/converted20260206-31-9lq7if.png" alt="Microsoft Certified: Azure AI Engineer Associate" width="80" height="80"></a>
-<a href="https://www.credly.com/users/jetzlstorfer/badges" title="Introduction to AI for business users"><img src="https://images.credly.com/size/80x80/images/d54ea56a-5986-4dd9-ae36-049aac750314/converted20250723-29-yuloa4.png" alt="Introduction to AI for business users" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 Find all [my badges on Credly.com](https://www.credly.com/users/jetzlstorfer/badges).
