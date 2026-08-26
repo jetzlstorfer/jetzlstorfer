@@ -21,11 +21,11 @@ My name is Jürgen and I'm a Solution Engineer at Microsoft Austria working with
 
 #### 👷 I'm currently working on (aka my most recent contributions)
 
-- [jetzlstorfer/music-timetraveler](https://github.com/jetzlstorfer/music-timetraveler) - 🧑‍🚀🎶 (2 days ago)
+- [jetzlstorfer/music-timetraveler](https://github.com/jetzlstorfer/music-timetraveler) - 🧑‍🚀🎶 (3 days ago)
 - [jetzlstorfer/plattentests-go](https://github.com/jetzlstorfer/plattentests-go) - creates a spotify playlist based on most recent record reviews from my favourite music website plattentests.de 💿 (1 week ago)
 - [jetzlstorfer/wattpilot-exporter](https://github.com/jetzlstorfer/wattpilot-exporter) - ⚡ (1 week ago)
 - [CloudNativeLinz/cloudnativelinz.github.io](https://github.com/CloudNativeLinz/cloudnativelinz.github.io) - Website and main repo for Cloud Native Linz community (1 week ago)
-- [technologieplauscherl/technologieplauscherl.github.io](https://github.com/technologieplauscherl/technologieplauscherl.github.io) - Technologieplauscherl Website (1 week ago)
+- [technologieplauscherl/technologieplauscherl.github.io](https://github.com/technologieplauscherl/technologieplauscherl.github.io) - Technologieplauscherl Website (2 weeks ago)
 
 
 
